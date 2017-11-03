@@ -1,2 +1,5 @@
-# sample-java
-sample java application
+# Sample Java
+
+## List of Applications
+
+* MaxValue
